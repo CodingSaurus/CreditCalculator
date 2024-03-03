@@ -9,7 +9,7 @@ https://docs.google.com/spreadsheets/d/1YmsJqMUHtY6OftTSsqD6cZPA9isKm4duZczV-jBo
 
 이후 사본에서 Extensions > Apps Script > Run 눌러서 권한 부여
 
-구글 Apps Script > Triggers > Add Trigger 들어가서 main, Head, From spreadsheet, On change, Notify me immediately 로 설정 후 저장하면 작동 시작.
+구글 Apps Script > Triggers > Add Trigger 들어가서 main, Head, From spreadsheet, On edit, Notify me immediately 로 설정 후 저장하면 작동 시작.
 
 서울여대 종합정보시스템 > 성적 시스템 > 성적 출력 > 전체 성적 조회 를 통해 확인 할 수 있는 전체 성적표를 기반으로 작성.
 
